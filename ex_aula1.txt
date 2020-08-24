@@ -1,0 +1,16 @@
+Exercícios:
+
+Questão 1:
+a) git init = Inicia um novo repositório do git a partir de um diretório.
+b) git clone = Copia o que está no repositório do git para um repositório local.
+c) git branch = Mostra os branches que existem.
+d) git checkout = Desfaz alterações.
+e) git fetch = Traz o histórico de alterações.
+f) git pull = Se quiser buscar as alterações do respositório do git e fazer um merge delas no repositório local.
+g) git add = Adiciona os arquivos que estão do repositório do git em um diretório local.
+h) git add = Adiciona mudanças executadas no diretório.
+i) git commit = Confirma as mudanças feitas e adicioná-las ao repositório.
+j) git push = Envia as mudanças para o repositório remoto.
+
+Questão 2:
+	O comando git fetch apenas busca as alterações feitas no repositório remoto, já o git pull além de fazer a mesma coisa que o fetch, ele também já incorpora as mudanças feitas no repositório local.
